@@ -1,0 +1,16 @@
+/*
+ * Styles in this file will override theme styles because it is loaded last.
+ */
+
+.navbar .navbar-brand img {
+    /* Set a specific size for your logo image */
+    max-height: 100px; /* Adjust this value (e.g., 30px, 50px) until it looks right */
+    height: 100px;
+    width: auto; 
+}
+
+/* Optional: To ensure the logo is vertically centered with any title text */
+.navbar .navbar-brand {
+    display: flex;
+    align-items: center; 
+}
