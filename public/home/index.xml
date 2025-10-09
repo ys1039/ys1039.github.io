@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on</title><link>https://adritian-demo.vercel.app/home/</link><description>Recent content in Homes on</description><generator>Hugo</generator><language>en</language><atom:link href="https://adritian-demo.vercel.app/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>https://adritian-demo.vercel.app/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://adritian-demo.vercel.app/home/home/</guid><description>&lt;div class="spacer pt-5"&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;section id="about" class="section rad-animation-group pb-0"&gt;
+ &lt;div class="rad-fade-down"&gt;
+ &lt;div class="row d-flex flex-column-reverse flex-md-row"&gt;
+ &lt;div class="about__profile-picture col-12 col-md-6"&gt;
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class=""&gt;
+ 
+ 
+
+ &lt;source srcset="https://adritian-demo.vercel.app/images/about/me_hu_bca4fa4a3f558f2f.webp 1x, https://adritian-demo.vercel.app/images/about/me_hu_c393979c110c8b2c.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="https://adritian-demo.vercel.app/images/about/me_hu_7b647b60522010ef.jpg 1x, https://adritian-demo.vercel.app/images/about/me_hu_867fe188e67c88dd.jpg 2x" type="image/jpeg"&gt;
+
+ &lt;img
+ width="604"
+ height="708"
+ class="lozad img-responsive image-left-overflow"
+ data-src="https://adritian-demo.vercel.app/images/about/me_hu_7b647b60522010ef.jpg"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ /&gt;
+ &lt;/picture&gt;
+
+ &lt;/div&gt;
+ &lt;div class="col-12 col-md-6 my-auto"&gt;
+ &lt;h1&gt;Yunseo Choi&lt;/h1&gt;
+ &lt;div class="about-me content lead"&gt;
+ My research goal is to develop &lt;strong&gt;computer vision&lt;/strong&gt; frameworks that can advance psychological research and affective computing by enabling &lt;strong&gt;automated recognition of human nonverbal cues&lt;/strong&gt;. &lt;br&gt;In particular, I am interested in:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Automated recognition of facial expressions&lt;/li&gt;&lt;li&gt;Body language analysis for behavioral studies&lt;/li&gt;&lt;li&gt;Computer vision applications in affective computing and psychology&lt;/li&gt;&lt;/ul&gt;&lt;hr&gt;&lt;p&gt;&lt;strong&gt;📧 Email:&lt;/strong&gt; &lt;a href='mailto:dbstjys@yonsei.ac.kr'&gt;dbstjys@yonsei.ac.kr&lt;/a&gt;&lt;br&gt;&lt;strong&gt;📞 Phone:&lt;/strong&gt; +82 10-3357-4519&lt;br&gt;&lt;strong&gt;📝 Blog: &lt;/strong&gt;&lt;a href='https://blog.naver.com/yafavvboba' target='_blank'&gt;blog.naver.com/yafavvboba&lt;/a&gt;&lt;strong&gt;&lt;br&gt;📄 CV:&lt;/strong&gt; &lt;a href='https://adritian-demo.vercel.app/files/CV.pdf' target='_blank'&gt;Download PDF&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
